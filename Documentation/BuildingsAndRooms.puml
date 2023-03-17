@@ -1,0 +1,20 @@
+@startuml
+'https://plantuml.com/object-diagram
+
+Main *--> Building
+Main *--> Room
+
+Room : - int numberOfDoors
+Room : - int numberOfLamps
+Room : - int numberOfWindows
+
+Room : + Room(int numberOfDoors, int numberOfLamps, int numberOfWindows)
+Room : + getters()
+
+
+Building : - ArrayList<Room> rooms
+Building : + Building(ArrayList<Room> rooms, int numberOfBathrooms, int numberOfFloors, boolean isOfficeBuilding)
+Building : + getters()
+
+
+@enduml

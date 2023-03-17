@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e7a052e-4bdd-4f06-ad1e-eda42d3a5d34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6e7a052e-4bdd-4f06-ad1e-eda42d3a5d34" name="Changes" comment="Task 1, 2 and part of 3">
       <change afterPath="$PROJECT_DIR$/Documentation/BuildingsAndRooms.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Torsdagsopgaver_16_03_23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Cafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/coffees.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +24,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="901e6a6c-0770-4119-83c1-0ac77e4b415d" />
+        <option name="url" value="https://github.com/TRossen89/Torsdagsopgaver_16_03_23.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -85,7 +84,7 @@
       <recent name="Task3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BuildingTest.getNumberOfFloors">
+  <component name="RunManager">
     <configuration name="BuildingTest.getNumberOfFloors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Torsdagsopgaver_16_03_23" />
       <extension name="coverage">
@@ -135,11 +134,23 @@
       <updated>1678964737340</updated>
       <workItem from="1678964738535" duration="14279000" />
       <workItem from="1678983403969" duration="1785000" />
-      <workItem from="1679003774634" duration="754000" />
+      <workItem from="1679003774634" duration="2676000" />
     </task>
+    <task id="LOCAL-00001" summary="Task 1, 2 and part of 3">
+      <created>1679004710909</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679004710909</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 1, 2 and part of 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1, 2 and part of 3" />
   </component>
 </project>
